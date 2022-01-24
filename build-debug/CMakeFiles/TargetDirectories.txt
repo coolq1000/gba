@@ -1,3 +1,0 @@
-/Users/taigaclaw/projects/c++/gba/build-debug/CMakeFiles/rebuild_cache.dir
-/Users/taigaclaw/projects/c++/gba/build-debug/CMakeFiles/edit_cache.dir
-/Users/taigaclaw/projects/c++/gba/build-debug/CMakeFiles/Gba.dir
