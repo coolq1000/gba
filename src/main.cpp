@@ -1,8 +1,8 @@
 #include <iostream>
-#include "cpu/cpu.hpp"
+#include "gba.hpp"
 
 int main() {
-    Cpu cpu;
+    Gba gba;
     std::cout << "Hello, World!" << std::endl;
     return 0;
 }

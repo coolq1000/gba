@@ -13,6 +13,9 @@
 #define BIT(x) (1 << (x))
 #define MASK(x) (~BIT(x))
 
+/* value range */
+#define WITHIN_RANGE(x, lowest, highest) ((x) >= (lowest) && (x) <= (highest))
+
 /* type ranges */
 #define U8_MAX  UINT8_MAX
 #define U16_MAX UINT16_MAX
